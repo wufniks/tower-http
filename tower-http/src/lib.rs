@@ -328,6 +328,9 @@ pub mod timeout;
 #[cfg(feature = "normalize-path")]
 pub mod normalize_path;
 
+#[cfg(feature = "gateway")]
+pub mod gateway;
+
 pub mod classify;
 pub mod services;
 
