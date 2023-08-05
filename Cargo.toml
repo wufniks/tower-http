@@ -5,4 +5,4 @@ members = [
 ]
 
 [patch.crates-io]
-tower-http = { version = "0.3", path = "tower-http" }
+tower-http = { version = "0.4", path = "tower-http" }
